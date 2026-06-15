@@ -87,7 +87,7 @@ Buzzer Alert
 - Wi-Fi Connectivity
 - Sensor Integration
 
-## 🤝 Industry Partner
+## Industry Partner
 
 This project was developed in collaboration with **Dadang Koi**, a koi fish breeding and quarantine facility located in Palembang, Indonesia.
 
