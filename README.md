@@ -2,7 +2,7 @@
 
 An Internet of Things (IoT)-based water quality monitoring system designed to assist koi breeders in maintaining optimal water conditions during the quarantine process. The system continuously monitors temperature, pH, turbidity, and Total Dissolved Solids (TDS) in real time using ESP32 and multiple sensors, with data accessible through the Blynk mobile application.
 
-## 🚀 Features
+## Features
 
 - Real-time monitoring of water temperature, pH, turbidity, and TDS
 - Remote monitoring through the Blynk IoT platform
@@ -12,7 +12,7 @@ An Internet of Things (IoT)-based water quality monitoring system designed to as
 - Wi-Fi connectivity using ESP32
 - Designed according to koi fish quarantine water quality requirements
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 - ESP32 Development Board
 - DS18B20 Temperature Sensor
@@ -25,7 +25,7 @@ An Internet of Things (IoT)-based water quality monitoring system designed to as
 - Water Heater
 - Buzzer
 
-## 📱 IoT Monitoring Dashboard
+## IoT Monitoring Dashboard
 
 The system transmits sensor data to the Blynk platform, allowing users to monitor water quality remotely through smartphones or computers. The dashboard displays:
 
@@ -36,7 +36,7 @@ The system transmits sensor data to the Blynk platform, allowing users to monito
 
 Users receive notifications whenever measured values exceed the recommended range for koi fish quarantine.
 
-## 🎯 Water Quality Parameters
+## Water Quality Parameters
 
 | Parameter | Recommended Range |
 |------------|------------------|
@@ -45,7 +45,7 @@ Users receive notifications whenever measured values exceed the recommended rang
 | Turbidity | ≤ 25 NTU |
 | TDS | 200 – 500 ppm |
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 DS18B20
@@ -70,14 +70,14 @@ Relay & Heater
 Buzzer Alert
 ```
 
-## 📊 Project Objectives
+## Project Objectives
 
 - Develop an IoT-based water quality monitoring system for koi fish quarantine ponds.
 - Monitor critical water quality parameters in real time.
 - Improve monitoring efficiency compared to conventional manual methods.
 - Assist koi breeders in maintaining optimal water conditions and reducing disease risks.
 
-## 💻 Technologies Used
+## Technologies Used
 
 - ESP32
 - Arduino IDE
@@ -87,7 +87,7 @@ Buzzer Alert
 - Wi-Fi Connectivity
 - Sensor Integration
 
-## 👩‍💻 Author
+## Author
 
 **Putri Nadhiyah Salsabila**
 
