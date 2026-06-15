@@ -87,6 +87,18 @@ Buzzer Alert
 - Wi-Fi Connectivity
 - Sensor Integration
 
+## 🤝 Industry Partner
+
+This project was developed in collaboration with **Dadang Koi**, a koi fish breeding and quarantine facility located in Palembang, Indonesia.
+
+The partner provided:
+- Real-world quarantine pond environments for system deployment and testing
+- Practical insights into koi fish quarantine procedures
+- Water quality monitoring requirements based on daily operational needs
+- Feedback for evaluating system functionality and usability
+
+The collaboration ensured that the developed solution addressed actual challenges faced by koi breeders in maintaining water quality during the quarantine process.
+
 ## Author
 
 **Putri Nadhiyah Salsabila**
